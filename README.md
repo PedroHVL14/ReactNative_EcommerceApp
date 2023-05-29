@@ -34,7 +34,7 @@ Finally, start the app:
   <img src="./assets/welcome.png" width="230" hspace="15">
   <img src="./assets/signup.png" width="230" hspace="15">
   <img src="./assets/home.png" width="230" hspace="15">
-  <img src="./assets/home_grid.png" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/3a20197c-e14b-40bb-9aef-c0bd739ecaea" width="230" hspace="15">
   <img src="./assets/item_screen.png" width="230" hspace="15">
   <img src="./assets/product_added.png" width="230" hspace="15">
   <img src="./assets/cart.png" width="230" hspace="15">
@@ -44,15 +44,16 @@ Finally, start the app:
 
 <h2 align="center"> Handle Errors </h2>
 <p align="center">
-  <img src="./assets/password.png" width="230" hspace="15">
-  <img src="./assets/error.png" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/a84f001a-0f33-4f79-8581-8287730106a8" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/762e16ae-bf74-4ce3-a701-f551ec1852da" width="230" hspace="15">
 </p>
 
 <h2 align="center"> Success </h2>
 <p align="center">
-  <img src="./assets/loading.png" width="230" hspace="15">
-  <img src="./assets/loadingSignUp.png" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/cb7a34ac-ed1f-403e-890f-5a1523714a0e" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/bae6ea91-76e8-4c6d-8b59-b0133bef54e1" width="230" hspace="15">
 </p>
+
 
 ## 💻 Technologies used in this project:
 
@@ -68,3 +69,5 @@ Finally, start the app:
 - [@Igormcgo](https://github.com/Igormcgo)
 - [@DevRobh](https://github.com/DevRobh)
 - [@PauloAbrahao](https://github.com/PauloAbrahao)
+
+
