@@ -31,28 +31,29 @@ Finally, start the app:
 
 <h2 align="center"> Screens </h2>
 <p align="center">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/73b24950-e3b7-42d7-994c-2c73f4390fd2" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/5f6191b0-a6fd-4f1c-9f96-538c3b58e05e" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/852adc32-6af0-455c-814b-fce3b4aa0b66" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/5a74eb68-b2ad-4641-918a-92cc0bc9996b" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/acbd8d02-5fb5-413c-afba-1ec58b95da7b" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/a2e055cf-210e-4763-a5aa-e0c468c09720" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/fd10bbed-4e44-4440-b06e-5e2f5c17f75f" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/99d4ff5d-f00e-4026-98e4-c358f6d8d2e5" width="230" hspace="15">
+</p>
+
+
+<h2 align="center"> Login </h2>
+<p align="center">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/1fba1c7e-1a8f-42b7-860f-9e6fd6420854" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/d843f84f-416c-431e-b3be-97cdc64de6d2" width="230" hspace="15">
 </p>
 
 <h2 align="center"> Handle Errors </h2>
 <p align="center">
-  <img src="./assets/password.png" width="230" hspace="15">
-  <img src="./assets/error.png" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/9b033c2b-8853-46e3-a70c-d44dfa3b484c" width="230" hspace="15">
+  <img src="https://github.com/PedroHVL14/ReactNative_EcommerceApp/assets/115195952/21c41190-cfe0-4b49-adc0-0a054291d1dc" width="230" hspace="15">
 </p>
 
-<h2 align="center"> Success </h2>
-<p align="center">
-  <img src="" width="230" hspace="15">
-  <img src="" width="230" hspace="15">
-</p>
 
 ## 💻 Technologies used in this project:
 
