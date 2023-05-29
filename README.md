@@ -65,7 +65,7 @@ Finally, start the app:
 
 ## Authors
 
-- [@Igormcgo](https://github.com/Igormcgo)
 - [@PedroHVL14](https://github.com/PedroHVL14)
+- [@Igormcgo](https://github.com/Igormcgo)
 - [@DevRobh](https://github.com/DevRobh)
 - [@PauloAbrahao](https://github.com/PauloAbrahao)
