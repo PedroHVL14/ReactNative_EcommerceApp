@@ -1,4 +1,4 @@
-# Ecommerce Compass UOL
+# Ecommerce App
 
 <h2> About </h2>
 <h3> The objective of this project is to develop an e-commerce application in React Native, where the user must fill in all login fields before proceeding to the next screen. If the user doesn't fill in the fields correctly, error messages will be displayed. </h3>
