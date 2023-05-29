@@ -7,17 +7,7 @@
 
 ## Installation
 
-To run this app on your local machine, firt clone the repository:
-
-```bash
-  git clone https://github.com/PauloAbrahao/Ecommerce-Compass-Uol.git
-```
-
-Then, navigate to the project directory and install the dependencies:
-
-```bash
-  cd Ecommerce-Compass-Uol
-```
+Install the dependencies:
 
 ```bash
   npm install
